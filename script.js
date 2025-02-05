@@ -1,7 +1,7 @@
 const messages = [
-    "Why did you click me?",
-    "Are you really sure??",
+    "Aba, bat ako pinindot mo?",
     "Ayaw mo talaga ako ka-date?",
+    "Are you really sure??",
     "Baby.. pleaseee",
     "Pag-isipan mo mabuti hmmph",
     "If you say no, ill be sad...",
